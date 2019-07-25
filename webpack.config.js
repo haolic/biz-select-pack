@@ -6,7 +6,7 @@ module.exports = {
   mode: 'production',
 
   entry: {
-    index: './src/components/BizSelect/index.tsx'
+    index: './src/index.js'
   },
 
   output: {
